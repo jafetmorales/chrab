@@ -10,6 +10,7 @@ How to use:
 
 **Step 1:**
 Bring your own chromatically aberrated image or generate one by using Kromo with the following command:
+
 python3 kromo.py --verbose --strength 1 --noblur --out flower_chrabed.jpg ./samples/flower.jpg
 
 **Step 2:**
