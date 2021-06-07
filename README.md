@@ -18,7 +18,7 @@ python3 chrab.py -i ./flower_chrabed.jpg -c red
 The output will show the coordinates of the center for the aberration and the alpha parameter
 for the aberration.
 
-
+ 
 **How to get more accurate results:**
 To get more accurate results you can adjust the side, delta, and K variables in chrab.py:
 
