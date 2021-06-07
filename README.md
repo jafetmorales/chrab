@@ -4,7 +4,7 @@
 
 
 
-**Chrab is a Python3 program that measures chromatic aberration.**
+**Chrab is a Python3 program that measures chromatic aberration in images**
 
 How to use:
 
